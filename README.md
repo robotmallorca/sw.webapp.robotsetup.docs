@@ -12,6 +12,6 @@ Public Repository with the latest RobotBAS robotcloud applications public docume
 * **User's guide (spanish):** [Download](robotdesk_docs_man_user.pdf)
 
 
-## RobotDesk
+## RobotMetric
 
 * **User's guide (spanish):** [Download](RobotMetric_Manual_Usuario_T1V1_260109.pdf)
