@@ -4,7 +4,7 @@ Public Repository with the latest RobotBAS robotcloud applications public docume
 
 ## RobotSetup
 
-* **User's guide (english):** [Download](rsetup_docs_man_user.pdf)
+* **User's guide (spanish):** [Download](rsetup_docs_man_user.pdf)
 
 
 ## RobotDesk
